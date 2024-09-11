@@ -24,7 +24,7 @@ soy una persona tranquila y reservada pero amable con mis amistades de confianza
 ### Hojas de cálculo, Mantenimiento y soporte de computo, Páginas Web, Diseño Digital
 
 # Tecnologias💻
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)(https://github.com/Phany10073)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/4WULPsp0IQlfjRTRCK/giphy.gif" width="200"/>
